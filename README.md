@@ -1,1 +1,1 @@
-# Moved to [Main Repo](https://github.com/DiamondGotCat/Zeta)
+# Moved to [Main Repo](https://github.com/Zeta-LLM/Zeta)
